@@ -4,6 +4,7 @@
 
 # IPLocation
 Tools IPLocator
+Version: 1.0.0
 # Cara pakai
 $ pkg update && pkg upgrade 
 
