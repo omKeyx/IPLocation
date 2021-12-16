@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="Screenshot_20211216-224852_Termux.png"> 
+     <img src="logo.png"> 
 </p>
 
 # IPLocation
@@ -19,3 +19,7 @@ $ cd IPLocation
 
 $ python IPLocation.py
 
+output
+<p align="center">
+    <img src="output.png"
+</p>
