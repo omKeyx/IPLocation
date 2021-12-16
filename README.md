@@ -26,3 +26,6 @@ output
 <p align="center">
     <img src="output.png"
 </p>
+
+# Version
+Version: 1.0.0 Waktu: 17-12-2021
