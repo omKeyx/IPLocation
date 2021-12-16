@@ -2,8 +2,10 @@
      <img src="logobg.png"> 
 </p>
 
+Code by: omKeyx
 # IPLocation
-Tools IPLocator
+Tools IPLocation bisa melihat informasi ip addres
+
 Version: 1.0.0
 # Cara pakai
 $ pkg update && pkg upgrade 
