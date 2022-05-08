@@ -4,9 +4,8 @@
 
 Code by: omKeyx
 # IPLocation
-Tools IPLocation bisa melihat informasi ip addres
 
-Version: 1.0.0
+Version: 
 # Cara pakai
 Update package
 ```
@@ -33,8 +32,8 @@ $ python IPLocation.py
 
 output
 <p align="center">
-    <img src="output.png"
+    <img src=""
 </p>
 
 # Version
-Version: 1.0.0 Waktu: 17-12-2021
+Version:  Date: 
